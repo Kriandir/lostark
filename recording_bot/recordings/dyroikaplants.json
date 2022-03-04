@@ -1,0 +1,722 @@
+[
+    {
+        "time": 3.704246997833252,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1353,
+            50
+        ]
+    },
+    {
+        "time": 6.816042423248291,
+        "type": "keyDown",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 6.907063007354736,
+        "type": "keyUp",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 8.021689176559448,
+        "type": "keyDown",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 8.101707220077515,
+        "type": "keyUp",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 13.474406242370605,
+        "type": "keyDown",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 13.570428848266602,
+        "type": "keyUp",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 18.106207847595215,
+        "type": "keyDown",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 18.19257092475891,
+        "type": "keyUp",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 21.09254479408264,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1892,
+            918
+        ]
+    },
+    {
+        "time": 22.36349582672119,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1990,
+            467
+        ]
+    },
+    {
+        "time": 23.899312734603882,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            2000,
+            443
+        ]
+    },
+    {
+        "time": 25.3590350151062,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            2033,
+            480
+        ]
+    },
+    {
+        "time": 26.795023918151855,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            2045,
+            362
+        ]
+    },
+    {
+        "time": 28.398385047912598,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            2046,
+            404
+        ]
+    },
+    {
+        "time": 29.954246759414673,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            2019,
+            541
+        ]
+    },
+    {
+        "time": 31.31805920600891,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            2007,
+            336
+        ]
+    },
+    {
+        "time": 32.887072801589966,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1951,
+            274
+        ]
+    },
+    {
+        "time": 34.53203630447388,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1746,
+            212
+        ]
+    },
+    {
+        "time": 35.92187023162842,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            931,
+            135
+        ]
+    },
+    {
+        "time": 37.6179461479187,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            794,
+            174
+        ]
+    },
+    {
+        "time": 39.40100169181824,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1533,
+            169
+        ]
+    },
+    {
+        "time": 40.93677496910095,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1894,
+            313
+        ]
+    },
+    {
+        "time": 42.76862335205078,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1675,
+            565
+        ]
+    },
+    {
+        "time": 44.964651584625244,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1323,
+            905
+        ]
+    },
+    {
+        "time": 46.31338691711426,
+        "type": "keyDown",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 46.3934063911438,
+        "type": "keyUp",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 47.405420780181885,
+        "type": "keyDown",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 47.48943877220154,
+        "type": "keyUp",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 52.11114311218262,
+        "type": "keyDown",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 52.215167760849,
+        "type": "keyUp",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 56.77314257621765,
+        "type": "keyDown",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 56.85816216468811,
+        "type": "keyUp",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 59.11821103096008,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1101,
+            172
+        ]
+    },
+    {
+        "time": 60.67795181274414,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            507,
+            281
+        ]
+    },
+    {
+        "time": 62.46190881729126,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            775,
+            152
+        ]
+    },
+    {
+        "time": 64.2986352443695,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            989,
+            168
+        ]
+    },
+    {
+        "time": 65.90599799156189,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1653,
+            119
+        ]
+    },
+    {
+        "time": 67.85963010787964,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1609,
+            117
+        ]
+    },
+    {
+        "time": 70.62453961372375,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1459,
+            218
+        ]
+    },
+    {
+        "time": 72.14044260978699,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            382,
+            376
+        ]
+    },
+    {
+        "time": 74.12421226501465,
+        "type": "keyDown",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 74.19122767448425,
+        "type": "keyUp",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 75.45532488822937,
+        "type": "keyDown",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 75.58010768890381,
+        "type": "keyUp",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 79.76243758201599,
+        "type": "keyDown",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 79.85546207427979,
+        "type": "keyUp",
+        "button": "g",
+        "pos": null
+    },
+    {
+        "time": 84.55128765106201,
+        "type": "keyDown",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 84.63930630683899,
+        "type": "keyUp",
+        "button": "6",
+        "pos": null
+    },
+    {
+        "time": 87.0860743522644,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1157,
+            1085
+        ]
+    },
+    {
+        "time": 88.4310839176178,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1140,
+            1138
+        ]
+    },
+    {
+        "time": 89.47579216957092,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1630,
+            1087
+        ]
+    },
+    {
+        "time": 90.77008295059204,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1566,
+            1088
+        ]
+    },
+    {
+        "time": 91.85299968719482,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1422,
+            1117
+        ]
+    },
+    {
+        "time": 92.83960890769958,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            900,
+            1094
+        ]
+    },
+    {
+        "time": 94.07471370697021,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1101,
+            1108
+        ]
+    },
+    {
+        "time": 95.20496845245361,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1247,
+            1145
+        ]
+    },
+    {
+        "time": 96.31172490119934,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1300,
+            1143
+        ]
+    },
+    {
+        "time": 97.43249082565308,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1456,
+            1151
+        ]
+    },
+    {
+        "time": 98.68477582931519,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1759,
+            1140
+        ]
+    },
+    {
+        "time": 99.94157266616821,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1746,
+            1143
+        ]
+    },
+    {
+        "time": 101.09834313392639,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1403,
+            1161
+        ]
+    },
+    {
+        "time": 102.28138637542725,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1407,
+            1159
+        ]
+    },
+    {
+        "time": 103.37655735015869,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            890,
+            1147
+        ]
+    },
+    {
+        "time": 104.63428282737732,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            934,
+            1120
+        ]
+    },
+    {
+        "time": 105.8455741405487,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1259,
+            1155
+        ]
+    },
+    {
+        "time": 106.9514422416687,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1778,
+            1195
+        ]
+    },
+    {
+        "time": 108.26626658439636,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1510,
+            1146
+        ]
+    },
+    {
+        "time": 109.38207626342773,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1283,
+            1177
+        ]
+    },
+    {
+        "time": 110.46603059768677,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1186,
+            1172
+        ]
+    },
+    {
+        "time": 111.65202522277832,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            732,
+            1173
+        ]
+    },
+    {
+        "time": 112.90830874443054,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            828,
+            1143
+        ]
+    },
+    {
+        "time": 114.18910765647888,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            778,
+            1131
+        ]
+    },
+    {
+        "time": 115.41012835502625,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1101,
+            1166
+        ]
+    },
+    {
+        "time": 116.82607626914978,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            893,
+            1125
+        ]
+    },
+    {
+        "time": 118.02406740188599,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            412,
+            646
+        ]
+    },
+    {
+        "time": 119.49788618087769,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            271,
+            848
+        ]
+    },
+    {
+        "time": 121.0187394618988,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            462,
+            1078
+        ]
+    },
+    {
+        "time": 122.45157074928284,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            368,
+            1169
+        ]
+    },
+    {
+        "time": 123.98292946815491,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            694,
+            1218
+        ]
+    },
+    {
+        "time": 125.35774850845337,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            294,
+            1120
+        ]
+    },
+    {
+        "time": 126.85247874259949,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            363,
+            1114
+        ]
+    },
+    {
+        "time": 128.1642997264862,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            474,
+            1129
+        ]
+    },
+    {
+        "time": 129.72451782226562,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            781,
+            1021
+        ]
+    },
+    {
+        "time": 150.00777196884155,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1927,
+            171
+        ]
+    },
+    {
+        "time": 151.4946129322052,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1830,
+            178
+        ]
+    },
+    {
+        "time": 152.7364010810852,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1871,
+            296
+        ]
+    },
+    {
+        "time": 154.14838552474976,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1639,
+            465
+        ]
+    }
+]
